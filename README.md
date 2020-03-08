@@ -1,2 +1,2 @@
 # edvmarco
-Mein erstes Projekt auf GitHub.
+Erstes MineSweeper Projekt
